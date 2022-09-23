@@ -2,8 +2,8 @@ class Solution {
 public:
     vector<string> fizzBuzz(int n) {
         vector <string> vec;
-        string ch;
-        string s;
+        // string ch;
+        // string s;
         for(int i=1;i<=n;i++)
         {
             // ch=i;
